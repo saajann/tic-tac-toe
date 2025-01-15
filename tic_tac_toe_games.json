@@ -58,5 +58,85 @@
             ]
         ],
         "result": "Player X wins!"
+    },
+    {
+        "board": [
+            [
+                "X",
+                "O",
+                "O"
+            ],
+            [
+                "X",
+                "X",
+                "O"
+            ],
+            [
+                "O",
+                "X",
+                "X"
+            ]
+        ],
+        "result": "Player X wins!"
+    },
+    {
+        "board": [
+            [
+                "X",
+                "X",
+                "X"
+            ],
+            [
+                " ",
+                "O",
+                "O"
+            ],
+            [
+                " ",
+                " ",
+                " "
+            ]
+        ],
+        "result": "Player X wins!"
+    },
+    {
+        "board": [
+            [
+                "O",
+                "O",
+                "X"
+            ],
+            [
+                "X",
+                "O",
+                "O"
+            ],
+            [
+                "X",
+                "X",
+                "X"
+            ]
+        ],
+        "result": "Player X wins!"
+    },
+    {
+        "board": [
+            [
+                "X",
+                "O",
+                "X"
+            ],
+            [
+                "O",
+                "X",
+                "O"
+            ],
+            [
+                "O",
+                "X",
+                "X"
+            ]
+        ],
+        "result": "Player X wins!"
     }
 ]
